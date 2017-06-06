@@ -1,4 +1,4 @@
-# jenkins-did
+# jenkins-dind
 > Jenkins con cliente docker
 
 # Ejecución
